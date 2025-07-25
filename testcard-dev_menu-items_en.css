@@ -1,4 +1,3 @@
-<style>
 /*  Hide alternative language menu items
 jsdeliver.com url https://cdn.jsdelivr.net/gh/andytough/testcarddev@0d5fd7086f2507a34c2ee2d7dbea493745c069de/testcard-dev_menu-items_en.css
 Target desktop menu items */
@@ -18,5 +17,3 @@ Target desktop menu items */
 @media screen and (max-width:1024px){#header .header-menu-nav-item:nth-child(7) {display:none}}
   
 @media screen and (max-width:1024px){#header .header-menu-nav-item:nth-child(8) {display:none}}
-
-</style>
