@@ -1,4 +1,6 @@
-<!-- Hide alternative language menu items --><style>
+<!-- Hide alternative language menu items -->
+<!-- jsdeliver.com url https://cdn.jsdelivr.net/gh/andytough/testcarddev@0d5fd7086f2507a34c2ee2d7dbea493745c069de/testcard-dev_menu-items_en.css -->
+<style>
 /* Target desktop menu items */
 #header .header-nav-item:nth-child(5) {display:none}
 
